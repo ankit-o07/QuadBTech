@@ -1,4 +1,4 @@
-# React Vite Application
+# Todo Application
 
 ## Table of Contents
 
