@@ -1,4 +1,7 @@
-# Todo Application
+# React Vite Application
+
+## Live Demo
+Check out the live project: [Todo Application](https://quad-b-tech-chi.vercel.app/)
 
 ## Table of Contents
 
@@ -100,6 +103,7 @@ react-vite-app/
 ```
 
 
+
 ## Deployment
 Follow these steps to deploy the application:
 1. Build the project using `npm run build`.
@@ -108,6 +112,3 @@ Follow these steps to deploy the application:
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-![alt text](<Screenshot 2025-01-11 161531.png>)
-![alt text](<Screenshot 2025-01-11 161355.png>)
-![alt text](<Screenshot 2025-01-06 205932.png>)
